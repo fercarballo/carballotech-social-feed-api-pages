@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.1.0",
+  "updated_at": "2026-06-18T17:34:38.119Z",
+  "refresh_interval_minutes": 15,
+  "next_refresh_after": "2026-06-18T17:49:38.119Z",
+  "source": {
+    "platform": "tiktok",
+    "handle": "fercarballo.tech",
+    "url": "https://www.tiktok.com/@fercarballo.tech",
+    "metrics": {
+      "followers": 0
+    },
+    "followers": 0,
+    "status": "ok",
+    "last_success_at": "2026-06-18T17:34:38.119Z",
+    "last_checked_at": "2026-06-18T17:34:38.119Z",
+    "duration_ms": 826,
+    "strategy": "tiktok:http-public-html:strict-v2"
+  }
+}
