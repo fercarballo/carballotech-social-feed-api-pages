@@ -1,8 +1,8 @@
 {
   "ok": true,
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-18T17:34:38.119Z",
-  "ok_sources": 5,
-  "stale_sources": 0,
+  "updated_at": "2026-06-18T17:43:29.908Z",
+  "ok_sources": 4,
+  "stale_sources": 1,
   "total_sources": 5
 }

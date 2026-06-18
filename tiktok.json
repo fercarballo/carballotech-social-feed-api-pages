@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-18T17:34:38.119Z",
+  "updated_at": "2026-06-18T17:43:29.908Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-18T17:49:38.119Z",
+  "next_refresh_after": "2026-06-18T17:58:29.908Z",
   "source": {
     "platform": "tiktok",
     "handle": "fercarballo.tech",
@@ -11,10 +11,11 @@
       "followers": 0
     },
     "followers": 0,
-    "status": "ok",
+    "status": "stale",
     "last_success_at": "2026-06-18T17:34:38.119Z",
-    "last_checked_at": "2026-06-18T17:34:38.119Z",
-    "duration_ms": 826,
-    "strategy": "tiktok:http-public-html:strict-v2"
+    "last_checked_at": "2026-06-18T17:43:29.908Z",
+    "duration_ms": null,
+    "strategy": "tiktok:http-public-html:strict-v2",
+    "error": "https://www.tiktok.com/@fercarballo.tech: followers count not found"
   }
 }
