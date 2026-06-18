@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-18T18:44:37.966Z",
+  "updated_at": "2026-06-18T18:59:54.312Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-18T18:59:37.966Z",
+  "next_refresh_after": "2026-06-18T19:14:54.312Z",
   "sources": {
     "facebook": {
       "platform": "facebook",
@@ -13,9 +13,9 @@
       },
       "followers": 0,
       "status": "ok",
-      "last_success_at": "2026-06-18T18:44:37.966Z",
-      "last_checked_at": "2026-06-18T18:44:37.966Z",
-      "duration_ms": 4056,
+      "last_success_at": "2026-06-18T18:59:54.312Z",
+      "last_checked_at": "2026-06-18T18:59:54.312Z",
+      "duration_ms": 3027,
       "strategy": "local-browser-auth:facebook:body-text:v1"
     },
     "instagram": {
@@ -27,9 +27,9 @@
       },
       "followers": 1,
       "status": "ok",
-      "last_success_at": "2026-06-18T18:44:37.966Z",
-      "last_checked_at": "2026-06-18T18:44:37.966Z",
-      "duration_ms": 3037,
+      "last_success_at": "2026-06-18T18:59:54.312Z",
+      "last_checked_at": "2026-06-18T18:59:54.312Z",
+      "duration_ms": 3059,
       "strategy": "local-browser-auth:instagram:body-text:v1"
     },
     "x": {
@@ -41,9 +41,9 @@
       },
       "followers": 0,
       "status": "ok",
-      "last_success_at": "2026-06-18T18:44:37.966Z",
-      "last_checked_at": "2026-06-18T18:44:37.966Z",
-      "duration_ms": 350,
+      "last_success_at": "2026-06-18T18:59:54.312Z",
+      "last_checked_at": "2026-06-18T18:59:54.312Z",
+      "duration_ms": 377,
       "strategy": "x:http-public-html:strict-v2"
     },
     "tiktok": {
@@ -55,9 +55,9 @@
       },
       "followers": 0,
       "status": "ok",
-      "last_success_at": "2026-06-18T18:44:37.966Z",
-      "last_checked_at": "2026-06-18T18:44:37.966Z",
-      "duration_ms": 756,
+      "last_success_at": "2026-06-18T18:59:54.312Z",
+      "last_checked_at": "2026-06-18T18:59:54.312Z",
+      "duration_ms": 767,
       "strategy": "tiktok:http-public-html:strict-v2"
     },
     "youtube": {
@@ -69,9 +69,9 @@
       },
       "followers": 1,
       "status": "ok",
-      "last_success_at": "2026-06-18T18:44:37.966Z",
-      "last_checked_at": "2026-06-18T18:44:37.966Z",
-      "duration_ms": 4153,
+      "last_success_at": "2026-06-18T18:59:54.312Z",
+      "last_checked_at": "2026-06-18T18:59:54.312Z",
+      "duration_ms": 3289,
       "strategy": "local-browser-auth:youtube:youtube-metadata-text:v2"
     }
   }
