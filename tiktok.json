@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-18T17:58:47.198Z",
+  "updated_at": "2026-06-18T18:14:04.176Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-18T18:13:47.198Z",
+  "next_refresh_after": "2026-06-18T18:29:04.176Z",
   "source": {
     "platform": "tiktok",
     "handle": "fercarballo.tech",
@@ -12,9 +12,9 @@
     },
     "followers": 0,
     "status": "ok",
-    "last_success_at": "2026-06-18T17:58:47.198Z",
-    "last_checked_at": "2026-06-18T17:58:47.198Z",
-    "duration_ms": 827,
+    "last_success_at": "2026-06-18T18:14:04.176Z",
+    "last_checked_at": "2026-06-18T18:14:04.176Z",
+    "duration_ms": 703,
     "strategy": "tiktok:http-public-html:strict-v2"
   }
 }
