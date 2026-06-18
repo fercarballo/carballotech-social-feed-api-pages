@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.1.0",
+  "updated_at": "2026-06-18T17:04:43.433Z",
+  "refresh_interval_minutes": 15,
+  "next_refresh_after": "2026-06-18T17:19:43.433Z",
+  "sources": {
+    "facebook": {
+      "platform": "facebook",
+      "handle": "carballotech",
+      "url": "https://www.facebook.com/carballotech/",
+      "metrics": {
+        "followers": null
+      },
+      "followers": null,
+      "status": "error",
+      "last_success_at": null,
+      "last_checked_at": "2026-06-18T17:04:43.433Z",
+      "duration_ms": null,
+      "strategy": null,
+      "error": "https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fcarballotech%2F&wtsid=rdr_0reDDZjE1po3EEgkq: followers count not found | https://mbasic.facebook.com/login.php?next=https%3A%2F%2Fmbasic.facebook.com%2Fcarballotech%2F&refsrc=deprecated&wtsid=rdr_06bKwuGkXAJSJ6vFg&_rdr: followers count not found | https://www.facebook.com/carballotech/: HTTP 400"
+    },
+    "instagram": {
+      "platform": "instagram",
+      "handle": "fercarballotech",
+      "url": "https://www.instagram.com/fercarballotech/",
+      "metrics": {
+        "followers": null
+      },
+      "followers": null,
+      "status": "error",
+      "last_success_at": null,
+      "last_checked_at": "2026-06-18T17:04:43.433Z",
+      "duration_ms": null,
+      "strategy": null,
+      "error": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ffercarballotech%2F&is_from_rle: followers count not found"
+    },
+    "x": {
+      "platform": "x",
+      "handle": "fercarballotech",
+      "url": "https://x.com/fercarballotech",
+      "metrics": {
+        "followers": 0
+      },
+      "followers": 0,
+      "status": "ok",
+      "last_success_at": "2026-06-18T17:04:43.433Z",
+      "last_checked_at": "2026-06-18T17:04:43.433Z",
+      "duration_ms": 235,
+      "strategy": "x:http-public-html:strict-v2"
+    },
+    "tiktok": {
+      "platform": "tiktok",
+      "handle": "fercarballo.tech",
+      "url": "https://www.tiktok.com/@fercarballo.tech",
+      "metrics": {
+        "followers": 0
+      },
+      "followers": 0,
+      "status": "ok",
+      "last_success_at": "2026-06-18T17:04:43.433Z",
+      "last_checked_at": "2026-06-18T17:04:43.433Z",
+      "duration_ms": 323,
+      "strategy": "tiktok:http-public-html:strict-v2"
+    },
+    "youtube": {
+      "platform": "youtube",
+      "handle": "FerCarballoTech",
+      "url": "https://www.youtube.com/@FerCarballoTech",
+      "metrics": {
+        "followers": null
+      },
+      "followers": null,
+      "status": "error",
+      "last_success_at": null,
+      "last_checked_at": "2026-06-18T17:04:43.433Z",
+      "duration_ms": null,
+      "strategy": null,
+      "error": "https://www.youtube.com/@FerCarballoTech: followers count not found"
+    }
+  }
+}
