@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-18T18:59:54.312Z",
+  "updated_at": "2026-06-18T19:15:09.189Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-18T19:14:54.312Z",
+  "next_refresh_after": "2026-06-18T19:30:09.189Z",
   "sources": {
     "facebook": {
       "platform": "facebook",
@@ -13,9 +13,9 @@
       },
       "followers": 0,
       "status": "ok",
-      "last_success_at": "2026-06-18T18:59:54.312Z",
-      "last_checked_at": "2026-06-18T18:59:54.312Z",
-      "duration_ms": 3027,
+      "last_success_at": "2026-06-18T19:15:09.189Z",
+      "last_checked_at": "2026-06-18T19:15:09.189Z",
+      "duration_ms": 3824,
       "strategy": "local-browser-auth:facebook:body-text:v1"
     },
     "instagram": {
@@ -27,9 +27,9 @@
       },
       "followers": 1,
       "status": "ok",
-      "last_success_at": "2026-06-18T18:59:54.312Z",
-      "last_checked_at": "2026-06-18T18:59:54.312Z",
-      "duration_ms": 3059,
+      "last_success_at": "2026-06-18T19:15:09.189Z",
+      "last_checked_at": "2026-06-18T19:15:09.189Z",
+      "duration_ms": 3444,
       "strategy": "local-browser-auth:instagram:body-text:v1"
     },
     "x": {
@@ -41,9 +41,9 @@
       },
       "followers": 0,
       "status": "ok",
-      "last_success_at": "2026-06-18T18:59:54.312Z",
-      "last_checked_at": "2026-06-18T18:59:54.312Z",
-      "duration_ms": 377,
+      "last_success_at": "2026-06-18T19:15:09.189Z",
+      "last_checked_at": "2026-06-18T19:15:09.189Z",
+      "duration_ms": 592,
       "strategy": "x:http-public-html:strict-v2"
     },
     "tiktok": {
@@ -54,11 +54,12 @@
         "followers": 0
       },
       "followers": 0,
-      "status": "ok",
+      "status": "stale",
       "last_success_at": "2026-06-18T18:59:54.312Z",
-      "last_checked_at": "2026-06-18T18:59:54.312Z",
-      "duration_ms": 767,
-      "strategy": "tiktok:http-public-html:strict-v2"
+      "last_checked_at": "2026-06-18T19:15:09.189Z",
+      "duration_ms": null,
+      "strategy": "tiktok:http-public-html:strict-v2",
+      "error": "https://www.tiktok.com/@fercarballo.tech: followers count not found"
     },
     "youtube": {
       "platform": "youtube",
@@ -69,9 +70,9 @@
       },
       "followers": 1,
       "status": "ok",
-      "last_success_at": "2026-06-18T18:59:54.312Z",
-      "last_checked_at": "2026-06-18T18:59:54.312Z",
-      "duration_ms": 3289,
+      "last_success_at": "2026-06-18T19:15:09.189Z",
+      "last_checked_at": "2026-06-18T19:15:09.189Z",
+      "duration_ms": 3279,
       "strategy": "local-browser-auth:youtube:youtube-metadata-text:v2"
     }
   }
