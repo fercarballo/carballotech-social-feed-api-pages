@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-19T08:46:51.201Z",
+  "updated_at": "2026-06-19T09:02:05.301Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-19T09:01:51.201Z",
+  "next_refresh_after": "2026-06-19T09:17:05.301Z",
   "sources": {
     "facebook": {
       "platform": "facebook",
@@ -14,7 +14,7 @@
       "followers": 0,
       "status": "stale",
       "last_success_at": "2026-06-19T07:00:07.681Z",
-      "last_checked_at": "2026-06-19T08:46:51.201Z",
+      "last_checked_at": "2026-06-19T09:02:05.301Z",
       "duration_ms": null,
       "strategy": "local-browser-auth:facebook:body-text:v1",
       "error": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcarballotech%2F: followers count not found in local browser session"
@@ -28,9 +28,9 @@
       },
       "followers": 1,
       "status": "ok",
-      "last_success_at": "2026-06-19T08:46:51.201Z",
-      "last_checked_at": "2026-06-19T08:46:51.201Z",
-      "duration_ms": 3025,
+      "last_success_at": "2026-06-19T09:02:05.301Z",
+      "last_checked_at": "2026-06-19T09:02:05.301Z",
+      "duration_ms": 3157,
       "strategy": "local-browser-auth:instagram:body-text:v1"
     },
     "x": {
@@ -42,9 +42,9 @@
       },
       "followers": 0,
       "status": "ok",
-      "last_success_at": "2026-06-19T08:46:51.201Z",
-      "last_checked_at": "2026-06-19T08:46:51.201Z",
-      "duration_ms": 530,
+      "last_success_at": "2026-06-19T09:02:05.301Z",
+      "last_checked_at": "2026-06-19T09:02:05.301Z",
+      "duration_ms": 521,
       "strategy": "x:http-public-html:strict-v2"
     },
     "tiktok": {
@@ -57,7 +57,7 @@
       "followers": 1,
       "status": "stale",
       "last_success_at": "2026-06-18T23:04:03.939Z",
-      "last_checked_at": "2026-06-19T08:46:51.201Z",
+      "last_checked_at": "2026-06-19T09:02:05.301Z",
       "duration_ms": null,
       "strategy": "tiktok:http-public-html:strict-v2",
       "error": "https://www.tiktok.com/@fercarballo.tech: followers count not found"
@@ -71,9 +71,9 @@
       },
       "followers": 1,
       "status": "ok",
-      "last_success_at": "2026-06-19T08:46:51.201Z",
-      "last_checked_at": "2026-06-19T08:46:51.201Z",
-      "duration_ms": 3210,
+      "last_success_at": "2026-06-19T09:02:05.301Z",
+      "last_checked_at": "2026-06-19T09:02:05.301Z",
+      "duration_ms": 3183,
       "strategy": "local-browser-auth:youtube:youtube-metadata-text:v2"
     }
   }
