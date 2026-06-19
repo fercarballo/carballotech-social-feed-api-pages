@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-19T17:32:19.256Z",
+  "updated_at": "2026-06-19T19:46:58.885Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-19T17:47:19.256Z",
+  "next_refresh_after": "2026-06-19T20:01:58.885Z",
   "sources": {
     "facebook": {
       "platform": "facebook",
@@ -12,12 +12,11 @@
         "followers": 0
       },
       "followers": 0,
-      "status": "stale",
-      "last_success_at": "2026-06-19T07:00:07.681Z",
-      "last_checked_at": "2026-06-19T17:32:19.256Z",
-      "duration_ms": null,
-      "strategy": "local-browser-auth:facebook:body-text:v1",
-      "error": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcarballotech%2F: followers count not found in local browser session"
+      "status": "ok",
+      "last_success_at": "2026-06-19T19:46:58.885Z",
+      "last_checked_at": "2026-06-19T19:46:58.885Z",
+      "duration_ms": 4318,
+      "strategy": "local-browser-auth:facebook:body-text:v1"
     },
     "instagram": {
       "platform": "instagram",
@@ -27,12 +26,11 @@
         "followers": 1
       },
       "followers": 1,
-      "status": "stale",
-      "last_success_at": "2026-06-19T15:21:35.777Z",
-      "last_checked_at": "2026-06-19T17:32:19.256Z",
-      "duration_ms": null,
-      "strategy": "local-browser-auth:instagram:body-text:v1",
-      "error": "page.goto: Timeout 10000ms exceeded.\nCall log:\n  - navigating to \"https://www.instagram.com/fercarballotech/\", waiting until \"domcontentloaded\"\n"
+      "status": "ok",
+      "last_success_at": "2026-06-19T19:46:58.885Z",
+      "last_checked_at": "2026-06-19T19:46:58.885Z",
+      "duration_ms": 4138,
+      "strategy": "local-browser-auth:instagram:body-text:v1"
     },
     "x": {
       "platform": "x",
@@ -43,9 +41,9 @@
       },
       "followers": 0,
       "status": "ok",
-      "last_success_at": "2026-06-19T17:32:19.256Z",
-      "last_checked_at": "2026-06-19T17:32:19.256Z",
-      "duration_ms": 849,
+      "last_success_at": "2026-06-19T19:46:58.885Z",
+      "last_checked_at": "2026-06-19T19:46:58.885Z",
+      "duration_ms": 571,
       "strategy": "x:http-public-html:strict-v2"
     },
     "tiktok": {
@@ -58,7 +56,7 @@
       "followers": 1,
       "status": "stale",
       "last_success_at": "2026-06-18T23:04:03.939Z",
-      "last_checked_at": "2026-06-19T17:32:19.256Z",
+      "last_checked_at": "2026-06-19T19:46:58.885Z",
       "duration_ms": null,
       "strategy": "tiktok:http-public-html:strict-v2",
       "error": "https://www.tiktok.com/@fercarballo.tech: followers count not found"
@@ -72,9 +70,9 @@
       },
       "followers": 1,
       "status": "ok",
-      "last_success_at": "2026-06-19T17:32:19.256Z",
-      "last_checked_at": "2026-06-19T17:32:19.256Z",
-      "duration_ms": 3366,
+      "last_success_at": "2026-06-19T19:46:58.885Z",
+      "last_checked_at": "2026-06-19T19:46:58.885Z",
+      "duration_ms": 3268,
       "strategy": "local-browser-auth:youtube:youtube-metadata-text:v2"
     }
   }
