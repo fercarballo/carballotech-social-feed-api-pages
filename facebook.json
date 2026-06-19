@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-19T12:04:59.955Z",
+  "updated_at": "2026-06-19T12:20:14.121Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-19T12:19:59.955Z",
+  "next_refresh_after": "2026-06-19T12:35:14.121Z",
   "source": {
     "platform": "facebook",
     "handle": "carballotech",
@@ -13,7 +13,7 @@
     "followers": 0,
     "status": "stale",
     "last_success_at": "2026-06-19T07:00:07.681Z",
-    "last_checked_at": "2026-06-19T12:04:59.955Z",
+    "last_checked_at": "2026-06-19T12:20:14.121Z",
     "duration_ms": null,
     "strategy": "local-browser-auth:facebook:body-text:v1",
     "error": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcarballotech%2F: followers count not found in local browser session"
