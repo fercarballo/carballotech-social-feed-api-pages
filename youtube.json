@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-19T07:00:07.681Z",
+  "updated_at": "2026-06-19T07:15:24.333Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-19T07:15:07.681Z",
+  "next_refresh_after": "2026-06-19T07:30:24.333Z",
   "source": {
     "platform": "youtube",
     "handle": "FerCarballoTech",
@@ -12,9 +12,9 @@
     },
     "followers": 1,
     "status": "ok",
-    "last_success_at": "2026-06-19T07:00:07.681Z",
-    "last_checked_at": "2026-06-19T07:00:07.681Z",
-    "duration_ms": 4102,
+    "last_success_at": "2026-06-19T07:15:24.333Z",
+    "last_checked_at": "2026-06-19T07:15:24.333Z",
+    "duration_ms": 4019,
     "strategy": "local-browser-auth:youtube:youtube-metadata-text:v2"
   }
 }
