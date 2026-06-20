@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-20T21:18:16.357Z",
+  "updated_at": "2026-06-20T21:33:32.431Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-20T21:33:16.357Z",
+  "next_refresh_after": "2026-06-20T21:48:32.431Z",
   "source": {
     "platform": "instagram",
     "handle": "fercarballotech",
@@ -12,9 +12,9 @@
     },
     "followers": 1,
     "status": "ok",
-    "last_success_at": "2026-06-20T21:18:16.357Z",
-    "last_checked_at": "2026-06-20T21:18:16.357Z",
-    "duration_ms": 4078,
+    "last_success_at": "2026-06-20T21:33:32.431Z",
+    "last_checked_at": "2026-06-20T21:33:32.431Z",
+    "duration_ms": 3421,
     "strategy": "local-browser-auth:instagram:body-text:v1"
   }
 }
