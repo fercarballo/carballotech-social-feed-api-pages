@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-22T11:44:57.548Z",
+  "updated_at": "2026-06-22T12:00:12.470Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-22T11:59:57.548Z",
+  "next_refresh_after": "2026-06-22T12:15:12.470Z",
   "sources": {
     "facebook": {
       "platform": "facebook",
@@ -13,9 +13,9 @@
       },
       "followers": 0,
       "status": "ok",
-      "last_success_at": "2026-06-22T11:44:57.548Z",
-      "last_checked_at": "2026-06-22T11:44:57.548Z",
-      "duration_ms": 2968,
+      "last_success_at": "2026-06-22T12:00:12.470Z",
+      "last_checked_at": "2026-06-22T12:00:12.470Z",
+      "duration_ms": 3675,
       "strategy": "local-browser-auth:facebook:body-text:v1"
     },
     "instagram": {
@@ -27,9 +27,9 @@
       },
       "followers": 1,
       "status": "ok",
-      "last_success_at": "2026-06-22T11:44:57.548Z",
-      "last_checked_at": "2026-06-22T11:44:57.548Z",
-      "duration_ms": 3127,
+      "last_success_at": "2026-06-22T12:00:12.470Z",
+      "last_checked_at": "2026-06-22T12:00:12.470Z",
+      "duration_ms": 3140,
       "strategy": "local-browser-auth:instagram:body-text:v1"
     },
     "x": {
@@ -41,9 +41,9 @@
       },
       "followers": 0,
       "status": "ok",
-      "last_success_at": "2026-06-22T11:44:57.548Z",
-      "last_checked_at": "2026-06-22T11:44:57.548Z",
-      "duration_ms": 345,
+      "last_success_at": "2026-06-22T12:00:12.470Z",
+      "last_checked_at": "2026-06-22T12:00:12.470Z",
+      "duration_ms": 552,
       "strategy": "x:http-public-html:strict-v2"
     },
     "tiktok": {
@@ -56,7 +56,7 @@
       "followers": 1,
       "status": "stale",
       "last_success_at": "2026-06-18T23:04:03.939Z",
-      "last_checked_at": "2026-06-22T11:44:57.548Z",
+      "last_checked_at": "2026-06-22T12:00:12.470Z",
       "duration_ms": null,
       "strategy": "tiktok:http-public-html:strict-v2",
       "error": "https://www.tiktok.com/@fercarballo.tech: followers count not found"
@@ -70,9 +70,9 @@
       },
       "followers": 1,
       "status": "ok",
-      "last_success_at": "2026-06-22T11:44:57.548Z",
-      "last_checked_at": "2026-06-22T11:44:57.548Z",
-      "duration_ms": 3285,
+      "last_success_at": "2026-06-22T12:00:12.470Z",
+      "last_checked_at": "2026-06-22T12:00:12.470Z",
+      "duration_ms": 3250,
       "strategy": "local-browser-auth:youtube:youtube-metadata-text:v2"
     }
   }
