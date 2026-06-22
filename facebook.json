@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-22T19:11:25.876Z",
+  "updated_at": "2026-06-22T19:35:52.744Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-22T19:26:25.876Z",
+  "next_refresh_after": "2026-06-22T19:50:52.744Z",
   "source": {
     "platform": "facebook",
     "handle": "carballotech",
@@ -12,9 +12,9 @@
     },
     "followers": 0,
     "status": "ok",
-    "last_success_at": "2026-06-22T19:11:25.876Z",
-    "last_checked_at": "2026-06-22T19:11:25.876Z",
-    "duration_ms": 3480,
+    "last_success_at": "2026-06-22T19:35:52.744Z",
+    "last_checked_at": "2026-06-22T19:35:52.744Z",
+    "duration_ms": 4140,
     "strategy": "local-browser-auth:facebook:body-text:v1"
   }
 }
