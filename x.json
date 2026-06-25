@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-25T09:21:56.635Z",
+  "updated_at": "2026-06-25T10:44:58.844Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-25T09:36:56.635Z",
+  "next_refresh_after": "2026-06-25T10:59:58.844Z",
   "source": {
     "platform": "x",
     "handle": "fercarballotech",
@@ -11,11 +11,10 @@
       "followers": 0
     },
     "followers": 0,
-    "status": "stale",
-    "last_success_at": "2026-06-25T04:44:42.519Z",
-    "last_checked_at": "2026-06-25T09:21:56.635Z",
-    "duration_ms": null,
-    "strategy": "x:http-public-html:strict-v2",
-    "error": "https://x.com/fercarballotech: The operation was aborted due to timeout"
+    "status": "ok",
+    "last_success_at": "2026-06-25T10:44:58.844Z",
+    "last_checked_at": "2026-06-25T10:44:58.844Z",
+    "duration_ms": 351,
+    "strategy": "x:http-public-html:strict-v2"
   }
 }
