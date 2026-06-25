@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-06-25T18:21:48.572Z",
+  "updated_at": "2026-06-25T18:37:05.023Z",
   "refresh_interval_minutes": 15,
-  "next_refresh_after": "2026-06-25T18:36:48.572Z",
+  "next_refresh_after": "2026-06-25T18:52:05.023Z",
   "source": {
     "platform": "x",
     "handle": "fercarballotech",
@@ -12,9 +12,9 @@
     },
     "followers": 0,
     "status": "ok",
-    "last_success_at": "2026-06-25T18:21:48.572Z",
-    "last_checked_at": "2026-06-25T18:21:48.572Z",
-    "duration_ms": 367,
+    "last_success_at": "2026-06-25T18:37:05.023Z",
+    "last_checked_at": "2026-06-25T18:37:05.023Z",
+    "duration_ms": 385,
     "strategy": "x:http-public-html:strict-v2"
   }
 }
